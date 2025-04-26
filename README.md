@@ -1,16 +1,13 @@
-## Hi there 👋
+# 🙋🏻‍♂️ Introducing Myself
+![image](https://github.com/user-attachments/assets/52d80028-633d-47e2-a236-5a34d07afb23)
 
-<!--
-**MattAtchison/MattAtchison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me
+Hi, I'm **Matt Atchison** — a Data Analyst, Digital Marketer, and Creator passionate about transforming data into insights and building creative solutions through analysis and technology.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- 📊 Querying, cleaning, and transforming data using **SQL**
+- 🖥️ Building dashboards and visualizations with **Tableau** and **Looker Studio**
+- 🛠️ Developing **data engineering workflows** and automating tasks with **Python**
+- 🕸️ Performing **web scraping** to gather and analyze external datasets
