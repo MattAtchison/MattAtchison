@@ -6,6 +6,12 @@ Hi, I'm **Matt Atchison** — a Data Analyst, Digital Marketer, and Creator pass
 
 ---
 
+## 🏈 Portfolio Projects
+
+- 🚀 [NFL Portfolio Project](https://github.com/your-username/NFL-Portfolio-Project) — Analyzing NFL player performance data with SQL and Python.
+
+---
+
 ## 🛠️ Skills
 - 📊 Querying, cleaning, and transforming data using **SQL**
 - 🖥️ Building dashboards and visualizations with **Tableau** and **Looker Studio**
